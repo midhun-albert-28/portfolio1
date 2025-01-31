@@ -1,0 +1,16 @@
+#header{
+    display:flex;
+    justify-content:space-between;
+}
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+#font{
+    font-size:30px;
+}
+#left{
+    font-size:20px;
+}
+#font1{
+    font-size:20px;
+}
